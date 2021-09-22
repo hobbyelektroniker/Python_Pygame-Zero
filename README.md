@@ -1,4 +1,4 @@
-# Pyton und Pygame Zero
+# Python und Pygame Zero
  Videoreihe 'Jump and Run'
 
 https://www.youtube.com/playlist?list=????
